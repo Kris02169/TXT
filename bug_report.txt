@@ -12,4 +12,3 @@ Step to reproduce:
 AR: The "pay" button is missing
 ER: You can click on "pay" button.
 Attachments: https://drive.google.com/file/
-
